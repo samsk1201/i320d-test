@@ -1,4 +1,4 @@
-lion
+lion contributor-a
 tiger
 leopard
 turtle
